@@ -68,10 +68,20 @@ a {
 .item2 {
     color: #757575;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .item2:hover {
+    color: #2196F3;
+}
+
+.item3 {
+    color: #2196F3;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.item3:hover {
     color: #2196F3;
 }
 
@@ -92,7 +102,7 @@ a {
 
 .banner h1 {
     text-align: center;
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 44px;
     font-weight: bold;
 }
@@ -100,7 +110,7 @@ a {
 .main-btn {
     margin: 30px 0;
     background-color: #2196F3;
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 16px;
     padding: 15px;
     border: none;
@@ -178,7 +188,7 @@ a {
     text-align: center;
     font-size: 16px;
     height: 370px;
-    background-color: #FFF;
+    background-color: #FFFFFF;
     border-radius: 5px;
     filter: drop-shadow(5px 5px 5px #a0a0a0);
 }
@@ -213,11 +223,11 @@ a {
 }
 
 .footer-logo a {
-    color: #FFF;
+    color: #FFFFFF;
 }
 
 .footer-container h6 {
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 14px;
     font-weight: 400;
     padding: 5px 0;
@@ -228,7 +238,7 @@ address {
 }
 
 address a {
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 14px;
     font-weight: 400;
     opacity: 0.5;
@@ -242,7 +252,7 @@ address a:hover {
 /* adding portfolio page styles */
 
 .portfolio-banner {
-    background-color: #FFF;
+    background-color: #FFFFFF;
 }
 
 .portfolio-banner ul {
@@ -275,7 +285,7 @@ address a:hover {
 
 .portfolio-btn:hover {
     background-color: #2196F3;
-    color: #FFF;
+    color: #FFFFFF;
     cursor: pointer;
 }
 
@@ -283,7 +293,6 @@ address a:hover {
     text-align: left;
     font-size: 16px;
     background-color: #FFF;
-    border: 1px solid #ECECEC;
 }
 
 .portfolio-column-item h4 {
@@ -303,6 +312,6 @@ address a:hover {
 
 .portfolio-menu {
     margin: 10px 0;
-    border-top: 1px solid #ECECEC;
+    border-top: 1px solid #EEEEEE;
 }
 
